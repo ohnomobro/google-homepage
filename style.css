@@ -1,0 +1,13 @@
+
+img {
+	align: center;
+}
+
+form input {
+	background: #F0F0F0;
+	border: none;
+	font-size: 36px;
+	padding: 20px;
+	width: 100%;
+	transition: background 2s, border-left 2s;
+}
